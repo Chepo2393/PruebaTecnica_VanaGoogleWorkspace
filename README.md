@@ -16,8 +16,8 @@ The project consists of the following files:
 - `add_member.py`: Enables the addition of users to directory groups.
 - `list_groupAlias.py`: Lists all the members' aliases in a specified group.
 - `list_groupKeys.py`: Lists all the groups in the Google Workspace directory.
-- `token.json`: Contains user-specific token data for authentication.
-- `credentials.json`: Stores credentials for accessing the Google Directory API.
+- `token.json`: contains user-specific token data for authentication, this file was left as is for practical testing purposes.
+- `credentials.json`: It stores the credentials to access the Google Directory API, as well as the token.json file, this file was left like this for practical testing purposes.
 
  
 ##### Important note: 
